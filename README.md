@@ -23,7 +23,6 @@ If not read the docs on ollama.com
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/_mcv_rcC0mk/0.jpg)](http://www.youtube.com/watch?v=_mcv_rcC0mk "Setup continue against LLM")
 
-<video src="setup-continue.mp4" width="560" height="auto" controls></video>
 
 
 ## Use OpenWebUI (like chatGPT)
