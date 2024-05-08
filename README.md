@@ -18,7 +18,7 @@ If not read the docs on ollama.com
 
 ## Use in VSCode directly
 
-1. Install continue extension from VSCode https://github.com/continuedev/continue
+1. Install continue extension for VSCode https://github.com/continuedev/continue
 2. Follow the video instructions below
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/_mcv_rcC0mk/0.jpg)](http://www.youtube.com/watch?v=_mcv_rcC0mk "Setup continue against LLM")
